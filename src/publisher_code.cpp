@@ -1,3 +1,4 @@
+#include "publisher_package/topic_name.h"
 // %Tag(FULLTEXT)%
 // %Tag(ROS_HEADER)%
 #include "ros/ros.h"
